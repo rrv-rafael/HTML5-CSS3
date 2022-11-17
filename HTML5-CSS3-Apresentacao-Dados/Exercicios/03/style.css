@@ -1,0 +1,48 @@
+table {
+    width: 100%;
+    border-collapse: collapse;
+    text-align: center;
+}
+
+table, th, td {
+    border: solid 1px #bababa;
+}
+
+thead tr:first-child {
+    text-transform: uppercase;
+    color: gray;
+}
+
+th, td {
+    padding: 10px;
+    font-size: 1.5rem;
+}
+
+.preco {
+    font-size: 3rem;
+    color: white;
+}
+
+.planoBasico {
+    background-color: #7dcbff;
+}
+
+.planoPadrao {
+    background-color: #3737ef;
+}
+
+.planoAvancado {
+    background-color: #9f06cd;
+}
+
+button {
+    padding: 20px;
+    border: none;
+    border-radius: 7px;
+    color: #fff;
+    cursor: pointer;
+}
+
+button:hover {
+    opacity: .8;
+}
