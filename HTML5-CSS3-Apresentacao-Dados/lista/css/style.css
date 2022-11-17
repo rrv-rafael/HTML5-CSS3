@@ -1,0 +1,14 @@
+body {
+    background-color: #0f0e0e;
+    color: white;;
+    margin: 0;
+}
+
+.lista {
+    list-style: none;
+    background-color: blueviolet;
+    margin: 0;
+    padding: 15px;
+    display: flex;
+    gap: 20px;
+}

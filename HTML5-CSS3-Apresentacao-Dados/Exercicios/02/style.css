@@ -1,0 +1,28 @@
+table {
+    width: 50%;
+    margin: auto;
+    border-collapse: collapse;
+    text-align: left;
+}
+
+thead {
+    /* text-align: left; */
+    border-bottom: solid 2px #000;
+}
+
+tbody tr {
+    /* text-align: left; */
+    border-bottom: solid 2px rgb(182, 175, 175);
+}
+
+tbody th {
+    padding-right: 20px;
+}
+
+td {
+    padding: 10px 0px;
+}
+
+tbody tr:hover {
+    background-color: rgb(211, 208, 208);
+}

@@ -1,0 +1,95 @@
+body {
+    background-color: #2b2a33;
+    color: white;
+    margin: 5;
+}
+
+table {
+    width: 100%;
+    text-align: left;
+}
+
+th {
+    width: calc(100% / 4);
+    padding: 20px;
+}
+
+table, tr, td {
+    border: solid 1px black;
+    border-collapse: collapse;
+    padding: 20px;
+}
+
+th {
+    background-color: slateblue;
+}
+
+/* table {
+    width: 100%;
+    margin-bottom: 30px;
+}
+
+table, th, td {
+    border: solid 1px white;
+    border-collapse: collapse;
+    cursor: pointer;
+}
+
+.tabela th {
+    background-color: #ff4601;
+    font-size: 1.3rem;
+    width: calc(100% / 7);
+}
+
+.tabela td {
+    text-align: center;
+    font-size: 1.2rem;
+}
+
+.tabela td:hover {
+    background-color: blueviolet;
+}
+
+.tabela th:hover {
+    background-color: #2b2a33;
+}
+
+.tabela-escola tr:first-child{
+    background-color: royalblue;
+}
+
+.tabela-info {
+    text-align: left;
+}
+
+.tabela-info tr:nth-child(even) {
+    background-color: brown;
+} */
+
+/* .style-coluna {
+    background-color: #ff4601;
+}
+
+.style-colunas {
+    background-color: #577ac2;
+}
+
+.tabela {
+    border: solid 3px black;
+    border-collapse: collapse;
+}
+
+td, th {
+    width: 250px;
+    text-align: center;
+}
+
+th {
+    background-color: blueviolet;
+    font-size: 1.5rem;
+}
+
+td {
+    background-color: darkslateblue;
+    font-size: 1.2rem;
+} */
